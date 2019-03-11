@@ -6,6 +6,7 @@ To begin open your index.html file in your browser. As is the tradition of our p
 
 The rules of CSS precedence are as follows:
 * inline styles
+* internal stylesheets
 * The order the external stylesheets or CDNs are linked in the header
 * !important
 * styles further down your stylesheet overwriting those that are farther up
