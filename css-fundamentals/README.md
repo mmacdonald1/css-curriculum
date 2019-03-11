@@ -81,7 +81,7 @@ One way to remember the syntax for a class is to think of a "class period" in sc
 <h2>Only $5.99!!!!</h2>
 <img src="https://theawesomedaily.com/wp-content/uploads/2017/06/crazy-japanese-inventions-21.jpeg" />
 ```
-You can get rid of the h1 for "Hello World". We are now selling the greatest new product on the market "Noodle Splash Guard".
+You can get rid of the h1 for "Hello World". We are now selling the greatest new product on the market "Noodle Splash Guard". 
 
 We are going to add classes and ids to the html tags then we are going to grab those elements and style them. When we are "grabbing the html element" we are using selectors.
 The selector for a class is:
@@ -100,6 +100,7 @@ The selector for a different style on mouse hover over element.
 ```
 h1:hover{}
 ```
+Go ahead and add some styling to your Splash Guard advertisement using your external stylesheet.
 
 6. Take 10 min and [CSS Diner](https://flukeout.github.io/) to learn how to use advanced Selectors.
 
