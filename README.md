@@ -1,5 +1,5 @@
 # Welcome to CSS!
-The endless rabbit hole of styling.
+This is the curriculum I wrote for a custom css lecture I taught at Flatiron School. CSS and the endless rabbit hole of styling. 
 
 ## Activities
 * Css-fundamentals- experiment with precedence and selectors
